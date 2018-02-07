@@ -6,7 +6,7 @@ nej打包版在pub文件夹下
 
 使用<em>npm install</em>安装server所需的相关依赖
 
-项目使用<i>mongoDB<i>，可以随意定义一个存储位置。
+项目使用<i>mongoDB</i>，可以随意定义一个存储位置。
 
 开启服务器：
 ```linux

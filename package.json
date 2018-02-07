@@ -1,0 +1,24 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "使用 NEJ 开发 Todo 应用 就跟 http://todomvc.com/examples/backbone/ 这个一样",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wt911122/todos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wt911122/todos/issues"
+  },
+  "homepage": "https://github.com/wt911122/todos#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}

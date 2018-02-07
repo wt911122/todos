@@ -9,7 +9,7 @@ nej打包版在pub文件夹下
 项目使用<i>mongoDB<i>，可以随意定义一个存储位置。
 
 开启服务器：
-``` linux
+```linux
   node ./server/app 
 ```
 然后在浏览器中输入 http://localhost:8080/html/app.html 
